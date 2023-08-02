@@ -39,9 +39,7 @@ Open AI LUDO folder and run index.html
 
 ```
 Enjoy playing AI LUDO Game
-```
-
-  
+```  
   
 <h2>💻 Built with</h2>
 
